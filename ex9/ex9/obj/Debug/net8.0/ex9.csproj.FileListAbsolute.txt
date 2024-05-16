@@ -1,0 +1,14 @@
+C:\Users\alhan\Downloads\Lista01_SW-I_2bim.-main\ex9\ex9\obj\Debug\net8.0\ex9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alhan\Downloads\Lista01_SW-I_2bim.-main\ex9\ex9\obj\Debug\net8.0\ex9.AssemblyInfoInputs.cache
+C:\Users\alhan\Downloads\Lista01_SW-I_2bim.-main\ex9\ex9\obj\Debug\net8.0\ex9.AssemblyInfo.cs
+C:\Users\alhan\Downloads\Lista01_SW-I_2bim.-main\ex9\ex9\obj\Debug\net8.0\ex9.csproj.CoreCompileInputs.cache
+C:\Users\alhan\Downloads\Lista01_SW-I_2bim.-main\ex9\ex9\bin\Debug\net8.0\ex9.exe
+C:\Users\alhan\Downloads\Lista01_SW-I_2bim.-main\ex9\ex9\bin\Debug\net8.0\ex9.deps.json
+C:\Users\alhan\Downloads\Lista01_SW-I_2bim.-main\ex9\ex9\bin\Debug\net8.0\ex9.runtimeconfig.json
+C:\Users\alhan\Downloads\Lista01_SW-I_2bim.-main\ex9\ex9\bin\Debug\net8.0\ex9.dll
+C:\Users\alhan\Downloads\Lista01_SW-I_2bim.-main\ex9\ex9\bin\Debug\net8.0\ex9.pdb
+C:\Users\alhan\Downloads\Lista01_SW-I_2bim.-main\ex9\ex9\obj\Debug\net8.0\ex9.dll
+C:\Users\alhan\Downloads\Lista01_SW-I_2bim.-main\ex9\ex9\obj\Debug\net8.0\refint\ex9.dll
+C:\Users\alhan\Downloads\Lista01_SW-I_2bim.-main\ex9\ex9\obj\Debug\net8.0\ex9.pdb
+C:\Users\alhan\Downloads\Lista01_SW-I_2bim.-main\ex9\ex9\obj\Debug\net8.0\ex9.genruntimeconfig.cache
+C:\Users\alhan\Downloads\Lista01_SW-I_2bim.-main\ex9\ex9\obj\Debug\net8.0\ref\ex9.dll
