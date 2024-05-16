@@ -1,0 +1,14 @@
+C:\Users\alhan\Downloads\Lista01_SW-I_2bim.-main\ex3\ex3\bin\Debug\net8.0\ex3.exe
+C:\Users\alhan\Downloads\Lista01_SW-I_2bim.-main\ex3\ex3\bin\Debug\net8.0\ex3.deps.json
+C:\Users\alhan\Downloads\Lista01_SW-I_2bim.-main\ex3\ex3\bin\Debug\net8.0\ex3.runtimeconfig.json
+C:\Users\alhan\Downloads\Lista01_SW-I_2bim.-main\ex3\ex3\bin\Debug\net8.0\ex3.dll
+C:\Users\alhan\Downloads\Lista01_SW-I_2bim.-main\ex3\ex3\bin\Debug\net8.0\ex3.pdb
+C:\Users\alhan\Downloads\Lista01_SW-I_2bim.-main\ex3\ex3\obj\Debug\net8.0\ex3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alhan\Downloads\Lista01_SW-I_2bim.-main\ex3\ex3\obj\Debug\net8.0\ex3.AssemblyInfoInputs.cache
+C:\Users\alhan\Downloads\Lista01_SW-I_2bim.-main\ex3\ex3\obj\Debug\net8.0\ex3.AssemblyInfo.cs
+C:\Users\alhan\Downloads\Lista01_SW-I_2bim.-main\ex3\ex3\obj\Debug\net8.0\ex3.csproj.CoreCompileInputs.cache
+C:\Users\alhan\Downloads\Lista01_SW-I_2bim.-main\ex3\ex3\obj\Debug\net8.0\ex3.dll
+C:\Users\alhan\Downloads\Lista01_SW-I_2bim.-main\ex3\ex3\obj\Debug\net8.0\refint\ex3.dll
+C:\Users\alhan\Downloads\Lista01_SW-I_2bim.-main\ex3\ex3\obj\Debug\net8.0\ex3.pdb
+C:\Users\alhan\Downloads\Lista01_SW-I_2bim.-main\ex3\ex3\obj\Debug\net8.0\ex3.genruntimeconfig.cache
+C:\Users\alhan\Downloads\Lista01_SW-I_2bim.-main\ex3\ex3\obj\Debug\net8.0\ref\ex3.dll
